@@ -1,5 +1,8 @@
 Things we are learning at SWC
 =============================
+7/27/13 
+
+Pittsburgh, PA
 
 * shell
 ** ls
